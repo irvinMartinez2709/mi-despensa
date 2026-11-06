@@ -1,0 +1,26 @@
+# Dependencias y compilación
+Web/node_modules/
+Web/dist/
+Web/.vite/
+
+# Proyecto Android generado por el CI (no se versiona)
+Web/android/
+
+# Keystore de firma (NUNCA se versiona)
+ks/
+
+# Artefactos locales de release
+Apk/
+
+# Memoria local del proyecto y notas personales (no se publican)
+registro.md
+Indicación para opencode.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Capturas de pruebas
+capturas/
